@@ -6,6 +6,9 @@
 #include <QTextEdit>
 #include <QVBoxLayout>
 #include <QTextDocument>
+#include <QFileDialog>
+#include <QTextDocumentWriter>
+#include <QTextTable>
 
 class MainWindow : public QMainWindow
 {
