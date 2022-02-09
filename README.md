@@ -9,7 +9,4 @@ Simple substitution puzzle generator
 Implementation of Bin Fill problem with fixed height of packages
 
 ## FillBin
-Implementation of 2DSP problem. Used [Next Fit Decrasing High](https://en.wikipedia.org/wiki/Next-fit-decreasing_bin_packing) and [Lightmap Pack](// https://blackpawn.com/texts/lightmaps/default.html) algos.
-
-## FillBinGenetic
-Incomplete imlementation of 2DSP problem on [genetic algo](https://en.wikipedia.org/wiki/Genetic_algorithm).  
+Implementation of 2DSP problem. Used [Next Fit Decrasing High](https://en.wikipedia.org/wiki/Next-fit-decreasing_bin_packing) and [Lightmap Pack](https://blackpawn.com/texts/lightmaps/default.html) algos.
