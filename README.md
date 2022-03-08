@@ -13,3 +13,6 @@ Implementation of 2DSP problem. Used [Next Fit Decrasing High](https://en.wikipe
 
 ## FillBinGenetic
 Incomplete imlementation of 2DSP problem on [genetic algo](https://en.wikipedia.org/wiki/Genetic_algorithm).  
+
+## RullerArithmetic
+App to generate addition/subscription tasks with ruler
