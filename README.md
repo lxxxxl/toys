@@ -16,3 +16,10 @@ Incomplete imlementation of 2DSP problem on [genetic algo](https://en.wikipedia.
 
 ## RullerArithmetic
 App to generate addition/subscription tasks with ruler
+
+## NumHouse
+Generate number houses
+
+## TeleTodo
+TODO Telegram bot
+
