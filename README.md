@@ -23,3 +23,11 @@ Generate number houses
 ## TeleTodo
 TODO Telegram bot
 
+## rss2telegram
+Telegram bot for reading RSS feeds
+
+## langton.py
+Langton ant implementation
+
+## predator_victim_tk.py
+Predator-victim simulation
