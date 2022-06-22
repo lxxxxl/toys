@@ -31,3 +31,17 @@ Langton ant implementation
 
 ## predator_victim_tk.py
 Predator-victim simulation
+
+# addition_table
+Android app for teaching children arithmetic
+
+# qcoloring
+App to decorate pictures
+Used icons from [DailyYouth](https://www.iconfinder.com/iconofoxy)
+
+# wordPuzzle
+Word Puzzle game on Qt Widgets
+
+# three_body_problem.py
+Python simulation of [Three body problem](https://en.wikipedia.org/wiki/Three-body_problem) in classical mechanics.  
+
