@@ -45,3 +45,5 @@ Word Puzzle game on Qt Widgets
 ## three_body_problem.py
 Python simulation of [Three body problem](https://en.wikipedia.org/wiki/Three-body_problem) in classical mechanics.  
 
+## TextGen
+Text generator based on PNG fonts.
